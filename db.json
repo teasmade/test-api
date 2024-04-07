@@ -23,6 +23,54 @@
       "postId": 2
     }
   ],
+  "comments2": [
+    {
+      "id": 1,
+      "body": "Some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "Another comment",
+      "postId": 2
+    }
+  ],
+  "comments3": [
+    {
+      "id": 1,
+      "body": "Some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "Another comment",
+      "postId": 2
+    }
+  ],
+  "comments4": [
+    {
+      "id": 1,
+      "body": "Some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "Another comment",
+      "postId": 2
+    }
+  ],
+  "comments5": [
+    {
+      "id": 1,
+      "body": "Some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "Another comment",
+      "postId": 2
+    }
+  ],
   "profile": {
     "name": "typicode"
   }
